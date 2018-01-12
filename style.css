@@ -1,0 +1,70 @@
+body{
+	background-color: #232323;
+}
+.jumbotron{
+	background-color: steelblue;
+	color: white;
+	text-align: center;
+	padding: 0px;
+	margin: 0px;
+	font-family: "Montserrat","Avenir";
+	text-transform: uppercase;
+}
+
+#strip{
+	background-color: white;
+	font-weight: bold;
+	height: 40px;
+}
+
+.container {
+    width: 50%;
+}
+.blocks{
+	width:30%;
+	border-radius: 15%;
+	margin: 1.66%;
+	background: #232323;
+	padding-bottom:  30%;
+	float:left;
+	transition: background 1.0s;
+	-webkit-transition: background 1.0s;
+	-moz-transition: background 1.0s;
+}
+
+#body{
+	max-width: 600px;
+	margin: 0 auto;
+	background-color: #232323;
+}
+#message{
+	color: black;
+	text-align: center;
+	width: 20%;
+	height: 40px;
+}
+.btn{
+	color: steelblue;
+	border: 0px;
+	font-weight: bold;
+	letter-spacing: 1px;
+	font-size: inherit;
+}
+button:hover {
+	background-color: steelblue;
+	color:white;
+}
+.easy{
+	float:right;
+}
+.selected{
+	background-color: steelblue;
+	color: white;
+}
+#header {
+	font-size: 100%;
+	line-height: 1.5;
+}
+#maincolor{
+	font-size: 200%;
+}
